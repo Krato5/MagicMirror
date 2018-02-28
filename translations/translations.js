@@ -6,6 +6,7 @@
  */
 
 var translations = {
+	"ar" : "translations/ar.json", // Arabic
 	"en" : "translations/en.json", // English
 	"nl" : "translations/nl.json", // Dutch
 	"de" : "translations/de.json", // German
