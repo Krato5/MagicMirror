@@ -1,0 +1,32 @@
+{
+	"LOADING": "تححين & إنتضار;",
+
+	"TODAY": "اليوم",
+	"TOMORROW": "غدا",
+	"DAYAFTERTOMORROW": "بعد غد",
+	"RUNNING": "ينتهي في",
+	"EMPTY": "لا يوجد موعد قادم.",
+
+	"WEEK": "اسبوع{weekNumber}",
+
+	"N": "N",
+	"NNE": "NNE",
+	"NE": "NE",
+	"ENE": "ENE",
+	"E": "E",
+	"ESE": "ESE",
+	"SE": "SE",
+	"SSE": "SSE",
+	"S": "S",
+	"SSW": "SSO",
+	"SW": "SO",
+	"WSW": "OSO",
+	"W": "O",
+	"WNW": "ONO",
+	"NW": "NO",
+	"NNW": "NNO",
+
+	"UPDATE_NOTIFICATION": "تحديث ماجيك ميرور متوفر",
+	"UPDATE_NOTIFICATION_MODULE": "يتوفر تحديث لوحدة  MODULE_NAME .",
+	"UPDATE_INFO": "التثبيت الحالي هو COMMIT_COUNT  متأخرا في الفرع BRANCH_NAME ."
+}
